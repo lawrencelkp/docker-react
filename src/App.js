@@ -15,7 +15,7 @@ function App() {
                     href='https://reactjs.org'
                     target='_blank'
                     rel='noopener noreferrer'>
-                    I was changed on the Feature branch!
+                    Learn React Testing 2
                 </a>
             </header>
         </div>
